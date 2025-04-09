@@ -7,7 +7,8 @@
 Welcome to **BrandBoostr**, the ultimate platform for elevating your brand's presence and growth! 
 
 ---
-![Landing Page](https://i.ibb.co/twc3yqYj/Screenshot-2025-03-04-021326.png)
+![landing page](https://imgur.com/xiHbvLi.png)
+
 
 ## 🔥 About BrandBoostr
 BrandBoostr is a powerful tool designed to help businesses, influencers, and entrepreneurs **maximize their brand visibility, engagement, and conversions**. Our platform leverages **cutting-edge AI solutions** for brand analysis, marketing automation, and audience growth strategies.
